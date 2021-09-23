@@ -35,8 +35,7 @@
 </p>
 
 About Me:
-- 🎓 I'm freshly graduated and looking for work
-- 🌱 I’m currently learning Bootstrap and VueX
+- 🎓 I'm currently a Software Engineer at Charter Communications!
 - 😄 Pronouns: she/her
 - ⚡ Hobbies:
   - Video games & streaming

@@ -35,4 +35,4 @@
 </p>
 
 
-Thanks [anuraghazra](https://github.com/anuraghazra/github-readme-stats#github-stats-card) for the super cool readme graphics!
+Graphics from [anuraghazra](https://github.com/anuraghazra/github-readme-stats#github-stats-card) 

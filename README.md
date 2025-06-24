@@ -34,12 +34,5 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
-About Me:
-- 🎓 I'm currently a Software Engineer at Charter Communications!
-- 😄 Pronouns: she/her
-- ⚡ Hobbies:
-  - Video games & streaming
-  - Food (in all forms)
-  - Sitting in my backyard with a beverage and my cats
 
 Thanks [anuraghazra](https://github.com/anuraghazra/github-readme-stats#github-stats-card) for the super cool readme graphics!

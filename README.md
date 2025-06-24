@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-r9ewr4snd-aliapetersons-projects.vercel.app/api?username=alia-peterson&show_icons=true&theme=outrun" alt="alia peterson github stats" />  
+  <img src="https://github-readme-stats-two-tau-97.vercel.app/api?username=alia-peterson&show_icons=true&theme=outrun" alt="alia peterson github stats" />  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-r9ewr4snd-aliapetersons-projects.vercel.app/api/top-langs/?username=alia-peterson&layout=compact&theme=outrun" alt="github top languages used" />
+  <img src="https://github-readme-stats-two-tau-97.vercel.app/api/top-langs/?username=alia-peterson&layout=compact&theme=outrun" alt="github top languages used" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
